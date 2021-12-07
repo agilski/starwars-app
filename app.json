@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "starwars-app",
+    "slug": "starwars-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "starwars-app"
+}
